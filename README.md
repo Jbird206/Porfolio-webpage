@@ -35,6 +35,6 @@ https://github.com/Jbird206/Porfolio-webpage
 * div and span
 
 ### Known bugs
-Images refused to respond to border attributes both hard coded and via CSS/styles.css
+```Images refused to respond to border attributes both hard coded and via CSS/styles.css```
 
 ### All rights reserved. Do not copy. Property of Jason McGrady

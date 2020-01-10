@@ -28,3 +28,13 @@ body {
   padding: 10px;
   background-color: #ACF4D2;
   border: 5px solid #ccc;
+
+}
+
+.left-menu {
+  background-color: #eee;
+  height: 1000px;
+  float: left;
+  border: 2px solid #ccc;
+  padding: 5px;
+}

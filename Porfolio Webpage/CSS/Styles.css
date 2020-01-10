@@ -1,7 +1,8 @@
-img {
+.img1 {
   border-color: black;
   border-radius: 8px;
   box-shadow: 3px 3px 6px #000000;
+  float: left;
 }
 
 h1 {
@@ -13,3 +14,17 @@ h1 {
 body {
   background-color: #99ccff;
 }
+
+.aboutme {
+ font-style: italic;
+ border: 1px solid #ddd;
+  /* border-radius: 4px;
+  padding: 5px; */
+  text-align: center;
+}
+
+.container2 {
+  margin: 15px;
+  padding: 10px;
+  background-color: #ACF4D2;
+  border: 5px solid #ccc;

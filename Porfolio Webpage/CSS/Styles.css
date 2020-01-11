@@ -1,5 +1,55 @@
-img {
+.img1 {
   border-color: black;
-  border-radius: 10%;
+  border-radius: 8px;
   box-shadow: 3px 3px 6px #000000;
+  float: left;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000;
+
+}
+
+body {
+  background-color: #99ccff;
+}
+
+.aboutme {
+ font-style: italic;
+ color: red;
+ border: 1px solid #ddd;
+  /* border-radius: 4px;
+  padding: 5px; */
+  text-align: center;
+}
+
+.container2 {
+  margin: 25px;
+  padding: 10px;
+  background-color: #ACF4D2;
+  border: 5px solid #ccc;
+
+}
+
+.left-menu {
+  background-color: #eee;
+  height: 800px;
+  float: left;
+  border: 2px solid #ccc;
+  padding: 5px;
+}
+
+img {
+  margin: 15px;
+  float: left;
+  border-radius: 8px;
+  border-color: black;
+  box-shadow: 3px 3px 6px #000000;
+
+}
+
+.colorText {
+  color: red;
+
 }
